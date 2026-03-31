@@ -3,7 +3,7 @@
 
 - Name: yedla yashwanth
 - Registration Number: 25MIP10073
-- Branch: data science
+- Branch: Integrated M.tech(data science)
 - Course Code: CSE0001
 - Course Title: Digital Literacy
 
